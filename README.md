@@ -1,6 +1,4 @@
-# CS-Summer-Work
+# CS-Summer-Work-Task 3
 
-Task 3:
-
-<u>Travel and Tourism<u/>
+Travel and Tourism
 
