@@ -1,5 +1,7 @@
 # CS-Summer-Work-Task 3
 
+Video: https://www.youtube.com/watch?v=Cgxsv1riJhI
+
 Travel and Tourism
 
 Benefits:
