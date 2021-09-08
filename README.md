@@ -1,6 +1,6 @@
 # CS-Summer-Work-Task 3
 
-Fast Image Recognition
+FAST IMAGE RECOGNITION
 
 Travel and Tourism
 
